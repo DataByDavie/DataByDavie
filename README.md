@@ -129,6 +129,77 @@ My experience spans data analysis, business intelligence, dashboard development,
 - Workflow Optimisation
 
 ---
+## 🏆 DataCamp Certifications
+
+<div align="center">
+
+### 📚 Continuous Professional Development
+
+Expanding my knowledge across **Data Analytics**, **Business Intelligence**, **SQL**, and **Cloud Technologies** through hands-on learning and industry-recognised training.
+
+<br>
+
+[![DataCamp](https://img.shields.io/badge/Learning-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/)
+
+</div>
+
+---
+
+### 🎓 Completed Courses
+
+#### 📊 Introduction to Power BI
+
+[![Certificate](https://img.shields.io/badge/View_Certificate-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.datacamp.com/completed/statement-of-accomplishment/course/7a8cf7a3dee027f4539168ad8d8408cad319600f?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+
+**Skills Covered**
+- Interactive Reporting
+- Data Visualisation
+- Business Intelligence Concepts
+- Dashboard Fundamentals
+- Data Exploration
+
+---
+
+#### ☁️ Understanding Cloud Computing
+
+[![Certificate](https://img.shields.io/badge/View_Certificate-Cloud_Computing-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/d1628495b269d452ff0ed4e07a1fdb7e73d8c48d?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+
+**Skills Covered**
+- Cloud Fundamentals
+- Cloud Service Models
+- Scalability & Availability
+- Cloud Infrastructure
+- Digital Transformation
+
+---
+
+#### 🗄️ Introduction to SQL
+
+[![Certificate](https://img.shields.io/badge/View_Certificate-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.datacamp.com/completed/statement-of-accomplishment/course/d6a9880c90f443f0e8f36e08fbbc2e00deb5c738?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+
+**Skills Covered**
+- SQL Fundamentals
+- SELECT Statements
+- Filtering Data
+- Sorting Results
+- Querying Relational Databases
+
+---
+
+## 🚀 Skills Acquired
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-FFD700?style=flat-square)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-00599C?style=flat-square)
+![Data Visualisation](https://img.shields.io/badge/Data_Visualisation-FF6F00?style=flat-square)
+
+---
+
+> 🎯 **Currently building expertise in Excel, SQL, Tableau, Power BI, Python, Pandas, and Azure Data technologies through hands-on projects and continuous learning.**>
+
+---
 
 ## 📂 Featured Projects
 
